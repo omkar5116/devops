@@ -1,4 +1,3 @@
-
 ---
 page_type: sample
 name: "HTML sample for Azure App Service"
